@@ -10,6 +10,7 @@ from ..distributions import Normal, compute_ll, compute_kl
 from ..imputation import process_ids
 
 
+
 class Mcvae(torch.nn.Module, Utilities):
 	"""
 	Multi-Channel Variational AutoEncoder

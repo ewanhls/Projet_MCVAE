@@ -1,0 +1,5 @@
+Training 
+
+Forward: On obtient les csv reconstruit
+
+tsv_create: remets les colonnes et lignes d'index
